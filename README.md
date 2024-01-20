@@ -1,4 +1,4 @@
-## This is a Basic Project, inspired from using MVC structure in our Go project.
+## This is a Basic Project, using MVC structure in our Go project.
 
 
 ### This project performs a simple Crud operation with some basic Validation stuff.
